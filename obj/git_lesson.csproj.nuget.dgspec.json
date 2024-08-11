@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anvar\\Desktop\\git_testing\\git_lesson\\git_lesson.csproj": {}
+    "C:\\Users\\Anvar\\Desktop\\sdasda\\git_lesson\\git_lesson.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anvar\\Desktop\\git_testing\\git_lesson\\git_lesson.csproj": {
+    "C:\\Users\\Anvar\\Desktop\\sdasda\\git_lesson\\git_lesson.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anvar\\Desktop\\git_testing\\git_lesson\\git_lesson.csproj",
+        "projectUniqueName": "C:\\Users\\Anvar\\Desktop\\sdasda\\git_lesson\\git_lesson.csproj",
         "projectName": "git_lesson",
-        "projectPath": "C:\\Users\\Anvar\\Desktop\\git_testing\\git_lesson\\git_lesson.csproj",
+        "projectPath": "C:\\Users\\Anvar\\Desktop\\sdasda\\git_lesson\\git_lesson.csproj",
         "packagesPath": "C:\\Users\\Anvar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anvar\\Desktop\\git_testing\\git_lesson\\obj\\",
+        "outputPath": "C:\\Users\\Anvar\\Desktop\\sdasda\\git_lesson\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anvar\\AppData\\Roaming\\NuGet\\NuGet.Config",
